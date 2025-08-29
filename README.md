@@ -2,7 +2,7 @@
 
 A web-based implementation of the board game
 [`Ricochet Robots`](https://en.wikipedia.org/wiki/Ricochet_Robots)
-built with Svelte and Sveltekit and deployed on Deno Deploy at [`https://dd.whirlwinda.st`](https://dd.whirlwinda.st)
+built with Svelte and Sveltekit
 
 ## Local Development
 
